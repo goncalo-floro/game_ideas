@@ -29,7 +29,7 @@ A voz do herói comunica com o Player, começando a mostrar os controles ao play
 
 A meio da primeira fase, o herói irá encontrar um inimigo que não consegue derrotar, e aí se evidencia a primeira parte do parasita
 Este inimigo vai ser uma espécie de boss, em que depois do player morrer a primeira vez, há uma cutscene, aonde o herói perde o braço,
-e o parasita para a substituí-lo
+e o parasita aparece para a substituir o braço.
 
 Na segunda fase o herói chega ao planeta dos aliens(Sane) que o raptaram(entra a 2ª evolução do parasita).
 Aí ele vai ter que derrotá-los até chegar á base espacial dos alienígenas, aonde ele irá encontrar uma nave para regressar ao seu planeta.
