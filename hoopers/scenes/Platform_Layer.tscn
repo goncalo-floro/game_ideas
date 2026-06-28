@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://diilh85g6xay0"]
+
+[ext_resource type="Script" uid="uid://doy57ac37j4m3" path="res://scripts/platform_layer.gd" id="1_sayn0"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_ojlt3"]
+size = Vector3(2, 0.2, 2)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_sayn0"]
+size = Vector3(2, 0.2, 2)
+
+[node name="PlatformLayer" type="StaticBody3D" unique_id=640582502]
+script = ExtResource("1_sayn0")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=847460995]
+mesh = SubResource("BoxMesh_ojlt3")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=17406161]
+shape = SubResource("BoxShape3D_sayn0")

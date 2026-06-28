@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://dix71haue0jl5"]
+
+[ext_resource type="Script" uid="uid://cv6wnhmvp0e5" path="res://scripts/ball.gd" id="1_d73vv"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ja1hk"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_ul5l2"]
+material = SubResource("StandardMaterial3D_ja1hk")
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_dqebh"]
+
+[node name="Ball" type="CharacterBody3D" unique_id=457385057]
+script = ExtResource("1_d73vv")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1794212772]
+mesh = SubResource("SphereMesh_ul5l2")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1051419496]
+shape = SubResource("SphereShape3D_dqebh")
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=2124644025]
+transform = Transform3D(1, 0, 0, 0, 0.76604444, 0.6427876, 0, -0.6427876, 0.76604444, 0, 8, 12)

@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://ccetm7xconw3b"]
+
+[ext_resource type="PackedScene" uid="uid://dscwtufaukn2q" path="res://scenes/HoopersLevel.tscn" id="1_y706w"]
+[ext_resource type="PackedScene" uid="uid://dix71haue0jl5" path="res://scenes/Ball.tscn" id="2_4yjng"]
+[ext_resource type="PackedScene" uid="uid://dpkdkwnsiprjd" path="res://scenes/ui.tscn" id="2_g4dp5"]
+
+[node name="HoopersGame" type="Node3D" unique_id=684459111]
+
+[node name="HoopersLevel" parent="." unique_id=2113970087 node_paths=PackedStringArray("ball") instance=ExtResource("1_y706w")]
+ball = NodePath("Ball")
+
+[node name="Ball" parent="HoopersLevel" unique_id=457385057 instance=ExtResource("2_4yjng")]
+
+[node name="Ui" parent="." unique_id=1089800193 instance=ExtResource("2_g4dp5")]
