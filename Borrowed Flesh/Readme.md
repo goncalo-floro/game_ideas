@@ -1,1 +1,4 @@
-Jogo narrativo guiado por escolhas(em desenvolvimento)
+Choice-driven narrative game with a linear story, where events are triggered by suspicion meters that indicate how much each person suspects the main character(the main idea is that if you whant to take the safe path, your not gonna get to see most of the events). 
+Events become available and are managed through the user's mobile phone, via messages exchanged with the other nine main characters.
+The main character also experiences death in diferent scenarios, but is always alive, because of the main character curse, where his mind travels to the closest parallel universe where all the current events take place, but in the case where he survives.
+The timeline of the game is represented with unniverse changes, deaths, event occurence, etc..., the timelines differ for diferent choices, but all finish in the same point in time, and events are only available in certain timelines, because the main story has chapters that separates possible events that are not possible to attend in different chapters.

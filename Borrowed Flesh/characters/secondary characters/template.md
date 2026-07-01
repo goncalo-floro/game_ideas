@@ -1,0 +1,1 @@
+personagens por defenir, sem influência direta na história
