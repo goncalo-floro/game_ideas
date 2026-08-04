@@ -1,1 +1,21 @@
-William's annoying friend
+# William's annoying friend
+
+## Full name: 
+
+
+
+## Age: 
+
+
+
+## Occupation / Role: 
+
+
+
+## Personality: 
+
+
+
+## Appearence: 
+
+

@@ -1,1 +1,21 @@
-William's best friend
+# William's best friend
+
+## Full name: 
+
+
+
+## Age: 
+
+
+
+## Occupation / Role: 
+
+
+
+## Personality: 
+
+
+
+## Appearence: 
+
+
