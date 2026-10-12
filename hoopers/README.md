@@ -1,0 +1,1 @@
+Idea of a puzzle game with a non-stoppable ball that doesn't stop jumping

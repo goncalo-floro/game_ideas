@@ -1,0 +1,1 @@
+Roguelike of domino pieces, that count it's points after the pieces on the board reach multiples of five, the board is discarded after every hand, and if in this hand you don't have a summed up multiple of 5, you don't receive points. Inspired after Dice a million.
